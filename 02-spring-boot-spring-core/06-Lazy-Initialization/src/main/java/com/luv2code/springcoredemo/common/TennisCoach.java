@@ -11,6 +11,6 @@ public class TennisCoach implements Coach{
     }
     @Override
     public String getDailyWorkout() {
-        return "This if for tennis coach";
+        return "This is for tennis coach";
     }
 }
